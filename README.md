@@ -2,7 +2,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/Default.aspx)
+* [Default.aspx](./CS/DashboardChartAnimationCS/Default.aspx)
 <!-- default file list end -->
 
 # Dashboard for Web Forms - How to apply animation to Chart items
