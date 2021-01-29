@@ -3,7 +3,7 @@
   <Title Text="New Dashboard" />
   <DataSources>
     <ObjectDataSource Name="Object Data Source" ComponentName="objectDataSource1">
-      <DataSource Type="SalesPersonData, App_Code.vfh0ovwf, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" />
+      <DataSource Type="SalesPersonData, DashboardChartAnimationCS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
       <DataMember>GetSalesData</DataMember>
     </ObjectDataSource>
   </DataSources>

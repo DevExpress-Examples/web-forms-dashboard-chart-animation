@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="true" CodeFile="Default.aspx.vb" Inherits="Default" %>
+﻿<%@ Page Language="vb" AutoEventWireup="true" CodeBehind="Default.aspx.vb" Inherits="DashboardChartAnimationVB._Default" %>
 
 <!DOCTYPE html>
 
