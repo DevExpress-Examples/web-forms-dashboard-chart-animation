@@ -14,4 +14,9 @@ This example enables animation for the [Chart](https://docs.devexpress.com/Dashb
 
 ## Documentation
 
+- [Access to Underlying Widgets in ASP.NET Web Forms](https://docs.devexpress.com/Dashboard/117573/web-dashboard/aspnet-web-forms-dashboard-control/access-to-underlying-widgets)
 - [Custom Properties](https://docs.devexpress.com/Dashboard/401702/web-dashboard/ui-elements-and-customization/custom-properties)
+
+## More Examples
+
+- [Dashboard for Web Forms - How to access API of underlying widgets](https://supportcenter.devexpress.com/ticket/details/t492396/asp-net-web-forms-dashboard-how-to-access-api-of-underlying-widgets)
